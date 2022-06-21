@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub D</h1>
+<h1 align="center">Hi 👋, I'm Jakub </h1>
 <h3 align="center">A IT student From Poland</h3>
 
 - 🌱 I’m currently learning **Frameworks, apps**
